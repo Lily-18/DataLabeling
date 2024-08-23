@@ -1,8 +1,8 @@
 # DataLabeling
-### README: Business Data Verification Script
+### README: Verification of Business detaills using Scraping
 
 #### Overview
-This Python script automates the verification of business details by cross-referencing entries from a dataset against live web content. The script efficiently handles large data volumes, utilizing web scraping and text matching techniques to validate the accuracy of business information such as names, addresses, and cities by comparing them with the corresponding website content.
+This Python code automates the verification of business details by cross-referencing entries from a dataset against live web content. The script efficiently handles large data volumes, utilizing web scraping and text matching techniques to validate the accuracy of business information such as names, addresses, and cities by comparing them with the corresponding website content.
 
 #### Prerequisites
 

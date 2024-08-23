@@ -1,6 +1,6 @@
 # DataLabeling
 ### README: Verification of Business details using Scraping 
-            --If the details are exact match Label {yes/no).
+            --If the details are exact match Label (yes/no).
             --Redirected Url created if any.
 #### Overview
 This Python code automates the verification of business details by cross-referencing entries from a dataset against live web content. The script efficiently handles large data volumes, utilizing web scraping and text matching techniques to validate the accuracy of business information such as names, addresses, and cities by comparing them with the corresponding website content.
